@@ -1,2 +1,2 @@
-Test of ADC using polling and one accelerometer 
+Test of ADC using polling, one accelerometer and stm32401ret6 
 
